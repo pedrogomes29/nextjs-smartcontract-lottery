@@ -73,7 +73,7 @@ Head over to your [localhost](http://localhost:3000) and play with the lottery!
 
 5. Simulate Chainlink Keepers and VRF
 
-In a 3rd terminal, change to the decentralized-lottery directory and run a script which mocks Chainlink Keepers and Chainlink VRF
+In a 3rd terminal, change to the decentralized-lottery directory and run a script (which mocks Chainlink Keepers and Chainlink VRF) to select a random winner.
 
 ```
 yarn run mockOffchain
