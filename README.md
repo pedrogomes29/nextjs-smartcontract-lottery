@@ -66,7 +66,7 @@ Back in a different terminal with the code from this repo, run:
 yarn dev
 ```
 
-4. Go to UI and have fun!
+4. Go to the UI and have fun!
 
 Head over to your [localhost](http://localhost:3000) and play with the lottery!
 
