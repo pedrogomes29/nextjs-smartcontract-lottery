@@ -8,6 +8,10 @@
 
 &nbsp;&nbsp; In this UI you can connect your wallet to the website and join the lottery. A winner (assuming at least one person joined) is chosen randomly (using [Chainlink VRF](https://vrf.chain.link/)) every 30 seconds (using [Chainlink Keepers](https://keepers.chain.link/))
 
+
+### &nbsp;&nbsp;**See the _[final product](https://proud-moon-3827.on.fleek.co/)_**
+
+
 # Getting Started
 
 ## Requirements
